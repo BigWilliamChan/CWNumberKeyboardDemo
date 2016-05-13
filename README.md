@@ -11,7 +11,6 @@
 
 ### How to use
 - import CWNumberKeyboard  folder
-- import CWNumberKeyboard.h  folder
 ```objective-c
 #import "CWNumberKeyboard.h"
 ```
